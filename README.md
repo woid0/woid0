@@ -1,9 +1,6 @@
-### Hi there 👋
+## 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 woid👋
 
-<!--
-**woid0/woid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Basic Information:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
