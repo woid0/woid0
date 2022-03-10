@@ -5,7 +5,7 @@
 
 - 👨‍💻 My primary languages: **C, C++, Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on discord: void#3511</h3>
 <p align="left">
 </p>
 
