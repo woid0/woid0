@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm woid!</h1>
+<h1 align="center">Hi, I'm woid!🌟</h1>
 <h3 align="center">Enthusiast in backend & game development</h3>
 
 - 🔭 I’m currently studying at the **University of Technology, Austria**
 
 - 👨‍💻 My primary languages: **C, C++, Python**
+
+- 🌱 Currently learning: Java, SQL
+
+- 👀 I'm interested in backend-, game dev and machine learning
+
+- 🎆 Other interests:
+    - 🌌 Astrophysics
+    - 💻 3D-Rendering
+    - 🎮 Videogames
+    - 🏀 Basketball
+    - 🎹 Piano
+    - ✈️ Travelling
+
+- 🔮 Dreaming about joining a passionate dev team
+
 
 <h3 align="left">Connect with me on discord: void#3511</h3>
 <p align="left">
