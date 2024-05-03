@@ -20,7 +20,7 @@
 - 🔮 Dreaming about joining a passionate dev team
 
 
-<h3 align="left">Connect with me on discord: void#3511</h3>
+<h3 align="left">Connect with me on discord: void.y</h3>
 <p align="left">
 </p>
 
